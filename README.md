@@ -1,0 +1,1 @@
+This project contains the control dataset and the code to generate the control dataset of the Q4 class "Fundamentals of Research in Machine and Deep Learning" for the 2024/25 academic year at TU Delft. By Jelmer Surewaard.
